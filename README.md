@@ -6,3 +6,5 @@ This is a hosuing dataset from  a state in the US. Various cleaning oprations we
 - Change Y and N to Yes and No in the "Sold as Vacant" field
 - Removing duplicate columns
 - Deleting un-used columns
+
+Link to the full Article can be found here:  https://medium.com/@princedanny922/data-cleaning-with-sql-beda03968da6
